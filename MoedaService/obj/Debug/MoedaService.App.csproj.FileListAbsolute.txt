@@ -1,0 +1,10 @@
+C:\dev\MoedaService\MoedaService\obj\Debug\MoedaService.App.csproj.AssemblyReference.cache
+C:\dev\MoedaService\MoedaService\obj\Debug\MoedaService.App.csproj.CoreCompileInputs.cache
+C:\dev\MoedaService\MoedaService\bin\Debug\MoedaService.exe.config
+C:\dev\MoedaService\MoedaService\bin\Debug\MoedaService.exe
+C:\dev\MoedaService\MoedaService\bin\Debug\MoedaService.pdb
+C:\dev\MoedaService\MoedaService\bin\Debug\RestSharp.dll
+C:\dev\MoedaService\MoedaService\bin\Debug\RestSharp.xml
+C:\dev\MoedaService\MoedaService\obj\Debug\MoedaService.App.csproj.CopyComplete
+C:\dev\MoedaService\MoedaService\obj\Debug\MoedaService.exe
+C:\dev\MoedaService\MoedaService\obj\Debug\MoedaService.pdb

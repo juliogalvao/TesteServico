@@ -1,0 +1,6 @@
+C:\dev\MoedaService\MoedaService.Domain\bin\Debug\MoedaService.Domain.dll
+C:\dev\MoedaService\MoedaService.Domain\bin\Debug\MoedaService.Domain.pdb
+C:\dev\MoedaService\MoedaService.Domain\obj\Debug\MoedaService.Domain.csproj.AssemblyReference.cache
+C:\dev\MoedaService\MoedaService.Domain\obj\Debug\MoedaService.Domain.csproj.CoreCompileInputs.cache
+C:\dev\MoedaService\MoedaService.Domain\obj\Debug\MoedaService.Domain.dll
+C:\dev\MoedaService\MoedaService.Domain\obj\Debug\MoedaService.Domain.pdb
